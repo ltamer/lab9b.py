@@ -5,7 +5,7 @@ params = {'world_size':(20,20),
           'num_agents':380,
           'same_pref' :0.4,
           'max_iter'  :100,
-          'out_path'  :r'/Users/laratamer/Documents/GitHub/simple_abm/lab 9b.py'}
+          'out_path'  :r'/Users/laratamer/Documents/GitHub/simple_abm/lab9b.py/git@github.com/ltamer/lab 9b.py'}
 
 class Agent:
     def __init__(self, world):
